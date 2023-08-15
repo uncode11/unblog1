@@ -1,0 +1,20 @@
+body{
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(138deg, rgba(0,0,0,1) 20%, rgba(26,31,93,1) 50%, rgba(1,1,2,1) 80%);
+    background: -webkit-linear-gradient(138deg, rgba(0,0,0,1) 20%, rgba(26,31,93,1) 50%, rgba(1,1,2,1) 80%);
+    background: linear-gradient(138deg, rgba(0,0,0,1) 20%, rgba(26,31,93,1) 50%, rgba(1,1,2,1) 80%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#010102",GradientType=1);
+    color: #ffffff;
+}
+p{
+    color: aliceblue;
+}
+li{
+    color: aliceblue;
+}
+h5,h3,h1{
+    color: aliceblue;
+}
+.cnt4{
+    color: black;
+}
